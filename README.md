@@ -1,2 +1,2 @@
 # sql
-this is the repository for all the information gathering by the courses and videos of SQL. 
+This repository contains all the information I’ve gathered from SQL courses and videos.
